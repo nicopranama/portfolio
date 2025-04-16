@@ -251,11 +251,9 @@
                 button.addEventListener('click', function() {
                     const category = this.getAttribute('data-category');
                     
-                    // Toggle active class
                     skillCategoryButtons.forEach(btn => btn.classList.remove('active'));
                     this.classList.add('active');
                     
-                    // Filter skills
                     if (category === 'all') {
                         skillItems.forEach(item => item.style.display = 'block');
                     } else {
