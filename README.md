@@ -56,6 +56,15 @@ The system consists of two main parts:
 
 ---
 
+## Example Use Cases
+
+- Add a new project → show instantly on portfolio page  
+- Update profile bio or photo → reflected on homepage  
+- Add or edit skill badges  
+- Update contact info without touching code
+
+---
+
 ## License
 
 This project is for personal and academic purposes. Feel free to fork and modify for your own portfolio.
