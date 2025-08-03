@@ -1,4 +1,4 @@
-# 🧑‍💻 Nico Pranama – Dynamic Portfolio with Admin Panel
+# Nico Pranama – Dynamic Portfolio with Admin Panel
 
 This project is a dynamic personal portfolio website built with **PHP Laravel**, featuring a simple **admin interface** that allows content updates to be reflected instantly on the user-facing site.
 
@@ -45,7 +45,7 @@ The system consists of two main parts:
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🖼 One-page portfolio site  
 - 🔒 Admin login & secure dashboard  
@@ -56,5 +56,8 @@ The system consists of two main parts:
 
 ---
 
-## 📂 Folder Structure (Simplified)
+## License
+
+This project is for personal and academic purposes. Feel free to fork and modify for your own portfolio.
+
 
