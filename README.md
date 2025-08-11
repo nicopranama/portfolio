@@ -11,7 +11,7 @@ It is designed to make updating personal data, project showcases, and skill list
 The system consists of two main parts:
 
 1. **Public Portfolio View (User-facing)**  
-   - Displays your profile, bio, skills, and project list  
+   - Displays my profile, bio, skills, and project list  
    - Visually appealing one-page layout  
    - Automatically updates whenever the admin makes changes
 
@@ -47,12 +47,12 @@ The system consists of two main parts:
 
 ## Features
 
-- 🖼 One-page portfolio site  
-- 🔒 Admin login & secure dashboard  
-- ✏️ Live content editing (About Me, Projects, Skills, etc.)  
-- 🖱 Instant update on portfolio view  
-- 💾 Data stored dynamically in database  
-- 📱 Mobile-friendly and responsive
+- One-page portfolio site  
+- Admin login & secure dashboard  
+- Live content editing (About Me, Projects, Skills, etc.)  
+- Instant update on portfolio view  
+- Data stored dynamically in database  
+- Mobile-friendly and responsive
 
 ---
 
